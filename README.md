@@ -1,6 +1,6 @@
 # Rust_OOP_Stud
 
-## Sutud proj with oop examples of patterns: Decorator, Composite, Builder, Visitor
+## Stud proj with oop examples of patterns: Decorator, Composite, Builder, Visitor
 
 * Composite + Builder - create branches with buds and leafs, add them to wood, and show in console that structure
 * Decorator - mix some rgb colors
